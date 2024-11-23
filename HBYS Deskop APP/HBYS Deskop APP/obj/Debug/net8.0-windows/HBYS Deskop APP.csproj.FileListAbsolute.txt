@@ -1,0 +1,26 @@
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\bin\Debug\net8.0-windows\HBYS Deskop APP.exe
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\bin\Debug\net8.0-windows\HBYS Deskop APP.deps.json
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\bin\Debug\net8.0-windows\HBYS Deskop APP.runtimeconfig.json
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\bin\Debug\net8.0-windows\HBYS Deskop APP.dll
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\bin\Debug\net8.0-windows\HBYS Deskop APP.pdb
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS Deskop APP.csproj.GenerateResource.cache
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS Deskop APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS Deskop APP.AssemblyInfoInputs.cache
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS Deskop APP.AssemblyInfo.cs
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS Deskop APP.csproj.CoreCompileInputs.cache
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS Deskop APP.dll
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\refint\HBYS Deskop APP.dll
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS Deskop APP.pdb
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS Deskop APP.genruntimeconfig.cache
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\ref\HBYS Deskop APP.dll
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS_Deskop_APP.Giris.resources
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS_Deskop_APP.Properties.Resources.resources
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS_Deskop_APP.Giris.tr-TR.resources
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\bin\Debug\net8.0-windows\tr-TR\HBYS Deskop APP.resources.dll
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\tr-TR\HBYS Deskop APP.resources.dll
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS Deskop APP.csproj.AssemblyReference.cache
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS_Deskop_APP.AnaSayfa.resources
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS Des.312400DD.Up2Date
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS_Deskop_APP.RandevuForm.resources
+C:\Users\ekrem\source\repos\HBYS Deskop APP\HBYS Deskop APP\obj\Debug\net8.0-windows\HBYS_Deskop_APP.HastaDetay.resources

@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|c:\\users\\ekrem\\source\\repos\\hbys deskop app\\hbys deskop app\\randevuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|solutionrelative:hbys deskop app\\randevuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|c:\\users\\ekrem\\source\\repos\\hbys deskop app\\hbys deskop app\\randevuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|solutionrelative:hbys deskop app\\randevuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|c:\\users\\ekrem\\source\\repos\\hbys deskop app\\hbys deskop app\\bilgis\u0131n\u0131flari\\randevular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|solutionrelative:hbys deskop app\\bilgis\u0131n\u0131flari\\randevular.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\hbys deskop app\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|solutionrelative:hbys deskop app\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\hbys deskop app\\hastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|solutionrelative:hbys deskop app\\hastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|c:\\users\\ekrem\\source\\repos\\hbys deskop app\\hbys deskop app\\hastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|solutionrelative:hbys deskop app\\hastadetay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|c:\\users\\ekrem\\source\\repos\\hbys deskop app\\hbys deskop app\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|solutionrelative:hbys deskop app\\anasayfa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\hbys deskop app\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|solutionrelative:hbys deskop app\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|c:\\users\\ekrem\\source\\repos\\hbys deskop app\\hbys deskop app\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|solutionrelative:hbys deskop app\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|c:\\users\\ekrem\\source\\repos\\hbys deskop app\\hbys deskop app\\bilgis\u0131n\u0131flari\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D822144B-0659-4620-B3C2-E8ABE0DACC3D}|HBYS Deskop APP\\HBYS Deskop APP.csproj|solutionrelative:hbys deskop app\\bilgis\u0131n\u0131flari\\hasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Randevular.cs",
+              "DocumentMoniker": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\BilgiS\u0131n\u0131flari\\Randevular.cs",
+              "RelativeDocumentMoniker": "HBYS Deskop APP\\BilgiS\u0131n\u0131flari\\Randevular.cs",
+              "ToolTip": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\BilgiS\u0131n\u0131flari\\Randevular.cs",
+              "RelativeToolTip": "HBYS Deskop APP\\BilgiS\u0131n\u0131flari\\Randevular.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T14:46:24.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Hasta.cs",
+              "DocumentMoniker": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\BilgiS\u0131n\u0131flari\\Hasta.cs",
+              "RelativeDocumentMoniker": "HBYS Deskop APP\\BilgiS\u0131n\u0131flari\\Hasta.cs",
+              "ToolTip": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\BilgiS\u0131n\u0131flari\\Hasta.cs",
+              "RelativeToolTip": "HBYS Deskop APP\\BilgiS\u0131n\u0131flari\\Hasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:48:25.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HastaDetay.cs",
+              "DocumentMoniker": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\HastaDetay.cs",
+              "RelativeDocumentMoniker": "HBYS Deskop APP\\HastaDetay.cs",
+              "ToolTip": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\HastaDetay.cs",
+              "RelativeToolTip": "HBYS Deskop APP\\HastaDetay.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:18:50.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HastaDetay.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\HastaDetay.cs",
+              "RelativeDocumentMoniker": "HBYS Deskop APP\\HastaDetay.cs",
+              "ToolTip": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\HastaDetay.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HBYS Deskop APP\\HastaDetay.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:45:16.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\Giris.cs",
+              "RelativeDocumentMoniker": "HBYS Deskop APP\\Giris.cs",
+              "ToolTip": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\Giris.cs",
+              "RelativeToolTip": "HBYS Deskop APP\\Giris.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:14:35.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Giris.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\Giris.cs",
+              "RelativeDocumentMoniker": "HBYS Deskop APP\\Giris.cs",
+              "ToolTip": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\Giris.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HBYS Deskop APP\\Giris.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T21:14:30.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandevuForm.cs",
+              "DocumentMoniker": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\RandevuForm.cs",
+              "RelativeDocumentMoniker": "HBYS Deskop APP\\RandevuForm.cs",
+              "ToolTip": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\RandevuForm.cs",
+              "RelativeToolTip": "HBYS Deskop APP\\RandevuForm.cs",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAuwKgAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:39:31.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AnaSayfa.cs",
+              "DocumentMoniker": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "HBYS Deskop APP\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\AnaSayfa.cs",
+              "RelativeToolTip": "HBYS Deskop APP\\AnaSayfa.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAGUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:39:15.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RandevuForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\RandevuForm.cs",
+              "RelativeDocumentMoniker": "HBYS Deskop APP\\RandevuForm.cs",
+              "ToolTip": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\RandevuForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HBYS Deskop APP\\RandevuForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T22:24:25.862Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnaSayfa.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\AnaSayfa.cs",
+              "RelativeDocumentMoniker": "HBYS Deskop APP\\AnaSayfa.cs",
+              "ToolTip": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\AnaSayfa.cs [Tasar\u0131m]",
+              "RelativeToolTip": "HBYS Deskop APP\\AnaSayfa.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:28:35.391Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
