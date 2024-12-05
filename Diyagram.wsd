@@ -1,0 +1,32 @@
+@startuml HBYS Desktop APP
+title HBYS Desktop APP
+
+class program
+
+package BilgiSınıfları {
+    class Doctor
+    class DoktorGiris
+    class Hasta
+    class Randevular
+}
+
+package Tasarımlar {
+    class Kayıt
+    class Giris
+    class AnaSayfa
+    class HastaDetay
+}
+
+Giris ..> Kayıt
+Giris ..> AnaSayfa
+AnaSayfa ..> Giris
+AnaSayfa ..> HastaDetay
+
+Randevular ..> AnaSayfa
+Hasta ..> HastaDetay
+DoktorGiris ..> Giris
+Kayıt ..> Doctor
+program ..> Tasarımlar
+
+hide empty members
+@enduml

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\HBYS Deskop APP.csproj": {}
+    "C:\\Users\\ekrem\\Desktop\\PROJELER\\HBYS V2\\HBYS Deskop APP\\HBYS Deskop APP\\HBYS Deskop APP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\HBYS Deskop APP.csproj": {
+    "C:\\Users\\ekrem\\Desktop\\PROJELER\\HBYS V2\\HBYS Deskop APP\\HBYS Deskop APP\\HBYS Deskop APP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\HBYS Deskop APP.csproj",
+        "projectUniqueName": "C:\\Users\\ekrem\\Desktop\\PROJELER\\HBYS V2\\HBYS Deskop APP\\HBYS Deskop APP\\HBYS Deskop APP.csproj",
         "projectName": "HBYS Deskop APP",
-        "projectPath": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\HBYS Deskop APP.csproj",
+        "projectPath": "C:\\Users\\ekrem\\Desktop\\PROJELER\\HBYS V2\\HBYS Deskop APP\\HBYS Deskop APP\\HBYS Deskop APP.csproj",
         "packagesPath": "C:\\Users\\ekrem\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\obj\\",
+        "outputPath": "C:\\Users\\ekrem\\Desktop\\PROJELER\\HBYS V2\\HBYS Deskop APP\\HBYS Deskop APP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ekrem\\AppData\\Roaming\\NuGet\\NuGet.Config",

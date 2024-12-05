@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1h/S0jH9iOI=",
+  "dgSpecHash": "a5F3bO/dsIs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ekrem\\source\\repos\\HBYS Deskop APP\\HBYS Deskop APP\\HBYS Deskop APP.csproj",
+  "projectFilePath": "C:\\Users\\ekrem\\Desktop\\PROJELER\\HBYS V2\\HBYS Deskop APP\\HBYS Deskop APP\\HBYS Deskop APP.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ekrem\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
